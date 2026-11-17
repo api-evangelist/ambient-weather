@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ambient Weather provides personal weather stations and a cloud‑based dashboard that streams live data from your home weather station to the internet. Users can view current conditions, forecasts, and historical data via web and mobile apps, and integrate the data into third‑party services through the Ambient Weather API.
+Ambient Weather provides a personal weather data dashboard that streams live data from personal weather stations to the internet. Users can monitor outdoor temperature, humidity, wind, and other metrics in real time via the Ambient Weather Network. The service offers subscription plans for advanced analytics, alerts, and integration with smart home devices, catering to hobbyists, professionals, and businesses seeking detailed weather insights.
 
-**Areas:** Company · Weather · IoT · Dashboard · API
+**Areas:** Company · Weather · IoT · Dashboard · API · Data
 
 ## Ambient Weather on APIs.io
 
@@ -91,25 +91,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 3.2** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 4.1** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
 | Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 4.8 |
+| Operational transparency | 5.3 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -129,7 +129,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ambient-weather/](https://apis.io/providers/ambient-weather/).
 
